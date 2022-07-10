@@ -1,3 +1,3 @@
 # This is Ampere
 
-I just revisiting Git
+I just revisit Git
